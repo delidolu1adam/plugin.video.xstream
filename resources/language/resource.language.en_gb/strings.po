@@ -1546,11 +1546,11 @@ msgid "StreamCloud"
 msgstr ""
 
 msgctxt "#30722"
-msgid ""
+msgid "TestPlugin"
 msgstr ""
 
 msgctxt "#30723"
-msgid ""
+msgid "Serien-Stream"
 msgstr ""
 
 msgctxt "#30724"
@@ -1562,7 +1562,7 @@ msgid "Streamcloud"
 msgstr ""
 
 msgctxt "#30726"
-msgid ""
+msgid "SerienHD"
 msgstr ""
 
 msgctxt "#30727"

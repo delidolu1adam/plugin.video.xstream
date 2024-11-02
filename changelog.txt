@@ -1,4 +1,14 @@
-[B]Version: 4.1.4 Nightly 2[/B]
+[B]Version: 4.1.4 Nightly 3[/B]
+
+02.11.2024
+
+- [Serien-Stream] Neue Seite hinzugefügt
+- [SerienHD] Neue Seite hinzugefügt
+- [Sprache] Neue Elemente hinzugefügt
+
+[I]NEUSTART ERFORDERLICH ![/I]
+
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
 
 30.10.2024
 
