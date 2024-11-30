@@ -1,4 +1,10 @@
-[B]Version: 4.1.5~nightly1[/B]
+[B]Version: 4.1.5~nightly2[/B]
+
+30.11.2024
+
+- [Filmpalast] Verbesserung Referer
+
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
 
 18.11.2024
 
